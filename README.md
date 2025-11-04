@@ -13,16 +13,16 @@ All tasks are saved locally in a JSON file for persistence.
 - 💾 Auto-save tasks to `tasks.json`
 - ⚙️ Clean modular structure (`task.rs`, `storage.rs`, `menu.rs`)
 
----
+## 📦 Installation
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
+Make sure you have [Rust](https://www.rust-lang.org/tools/install) installed.
 
 ```bash
 git clone https://github.com/andrejkoller/rusty-todo.git
 cd rusty-todo
 ```
+
+## ⚙️ Usage
 
 ```bash
 cargo run
