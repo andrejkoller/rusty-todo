@@ -1,4 +1,4 @@
-# 🦀 rusty-todo
+## Short description
 
 A simple and lightweight command-line ToDo application built in Rust.  
 Manage your daily tasks directly from the terminal — add, list, mark as done, and delete tasks with ease.  
@@ -21,8 +21,6 @@ Make sure you have [Rust](https://www.rust-lang.org/tools/install) installed.
 git clone https://github.com/andrejkoller/rusty-todo.git
 cd rusty-todo
 ```
-
-## ⚙️ Usage
 
 ```bash
 cargo run
